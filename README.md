@@ -10,7 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06ff06&size=22&lines=<h1>I'm+Front+End+Developer</h1>)]()
 
 </div>
-<h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height = 40px width = 40px></h1>
 
 <!--======================================================= About Section =======================================================-->
 
