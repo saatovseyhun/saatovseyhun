@@ -15,7 +15,7 @@
 <h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height = 40px width = 40px></h1>
 
 <!--======================================================= Viewer Counter =======================================================-->
-### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=Mahammdsaleh&color=228c22&style=flat">
+
 
 <!--======================================================= "We can code this" Gif =======================================================-->
 <img align="right" align="right" width="35%" height="250px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
