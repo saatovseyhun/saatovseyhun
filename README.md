@@ -12,7 +12,6 @@
 </div>
 
 <!--======================================================= About Section =======================================================-->
-<h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height = 40px width = 40px></h1>
 
 <!--======================================================= Viewer Counter =======================================================-->
 
@@ -20,6 +19,8 @@
 <!--======================================================= "We can code this" Gif =======================================================-->
 <img align="right" align="right" width="35%" height="250px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saatovseyhun&label=Profile%20views&color=0e75b6&style=flat" alt="saatovseyhun" /> </p>
+  <h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height = 40px width = 40px></h1>
+
 
 - 🔭 I’m currently working on **Full/Stack development**
 
